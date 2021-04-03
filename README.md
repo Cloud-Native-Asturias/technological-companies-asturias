@@ -10,6 +10,7 @@ Here you can find the list of Tecnological Companies based in Asturias (spain) a
 |okticket|https://www.okticket.es|Gijón|Finance|Product|SaaS|
 |Mobentis|http://www.mobentis.com|Llanera|Management|Service|On-demand|
 |MovilGmao|https://www.movilgmao.es|Oviedo|Processes|Product|SaaS|
+|Onirix|https://www.onirix.com|Llanera|Innovation|Product|SaaS|
 |Trypton Software|https://tryptonsoftware.com|Llanera|Program Development|Product|SaaS|
 
 ## Q&A
@@ -43,5 +44,5 @@ English
 ### How can I see the last time this list was updated?
 Take a look to the last commit of this file.
 
-### Who is the ower of this list?
+### Who is the owner of this list?
 You, and all the community. But if you are looking for the people that created and promotes this, you can find us at [cloudnativeasturias.com](https://cloudnativeasturias.com)
